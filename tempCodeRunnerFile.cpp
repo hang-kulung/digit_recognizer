@@ -1,2 +1,3 @@
 
-std::vector <Matrix> train_input, train_output;
+//     if (x >= 0.0) return x;
+//     else return 0;
